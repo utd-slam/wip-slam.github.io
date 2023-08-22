@@ -1,7 +1,7 @@
 const cellVariables = [];
 
 // URL of the published Google Sheet (replace with your URL)
-const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSiGx4ODFfVOOrQFe4xy-POn0ImXK5jpO1Dq9R1QW-QWEgB-ZPv_qj_d5NAQ31tf_ZmZ0yxinIxuXfX/pubhtml';
+const sheetUrl = 'https://raw.githubusercontent.com/utd-slam/wip-slam.github.io/master/Website_Database.csv'
 
 // Fetch data from the published Google Sheet
 fetch(sheetUrl)
